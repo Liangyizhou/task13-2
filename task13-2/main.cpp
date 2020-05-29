@@ -25,7 +25,7 @@ int main()
 	while (1) {
 
 		cap >> frame;
-		if (frame.empty())break;,
+		if (frame.empty())break;
 
 		if (cnt == 0) {
 			Rect2d r;
